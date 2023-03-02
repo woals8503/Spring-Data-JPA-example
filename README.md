@@ -2,7 +2,8 @@
 인프런 김영한 강사님 강의 학습 예제
 
 티스토리 블로그 정리
-( 1회 복습 시 작성 예정 )
+( 작성중 )
+https://philarfun1.tistory.com/category/Spring%20Data%20JPA
 
 1회 완강 ( o )
 
